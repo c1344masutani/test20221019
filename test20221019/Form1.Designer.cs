@@ -37,7 +37,7 @@ namespace test20221019
             this.checkedListBox1.FormattingEnabled = true;
             this.checkedListBox1.Location = new System.Drawing.Point(66, 127);
             this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(411, 180);
+            this.checkedListBox1.Size = new System.Drawing.Size(213, 180);
             this.checkedListBox1.TabIndex = 0;
             // 
             // Form1
